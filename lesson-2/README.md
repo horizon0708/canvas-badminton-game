@@ -108,3 +108,8 @@ document.addEventListener("keyup", (event) => {
 Now start the game, and player will move left and right when you press `a`,`d`
 
 Also try to do this with player 2
+
+### Other ideas
+
+- add image to background canvas
+- add image to charactor, ball
